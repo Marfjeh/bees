@@ -1,6 +1,5 @@
 title BEES BEES BEES BEES BEES BEES BEES BEES for Windows
-echo off
-cls
+@echo off
 :A
 echo BEES
 goto A
